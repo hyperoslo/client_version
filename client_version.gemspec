@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Rack middleware for forcing clients to upgrade'
   spec.description   = 'Rack middleware for forcing clients to upgrade'
-  spec.homepage      = 'https://github.com/hyperoslo/client_version'
+  spec.homepage      = 'https://github.com/hyperoslo/client-version'
   spec.license       = 'MIT'
 
   spec.files         = Dir[
