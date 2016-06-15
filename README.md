@@ -26,6 +26,9 @@ $ bundle install
 
 ## Configuration
 
+Set the `CLIENT_VERSION` environment variable to whatever the latest version of
+your client is.
+
 If you're using Rails, you're all set; we've hooked into your middleware stack
 for you. Otherwise just add `ClientVersion` to your middleware stack.
 
