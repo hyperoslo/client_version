@@ -29,3 +29,5 @@ class ClientVersion
     ENV['CLIENT_VERSION']
   end
 end
+
+require 'client_version/railtie' if defined?(Rails)
