@@ -5,7 +5,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/hyperoslo/client-version.svg?style=flat)](https://coveralls.io/r/hyperoslo/client-version)
 [![Join the chat at https://gitter.im/hyperoslo/client-version](https://badges.gitter.im/hyperoslo/client-version.svg)](https://gitter.im/hyperoslo/client-version?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-If you're building an API, it can be really helpful to be able to force your
+When you're building an API, it's really helpful to be able to force your
 clients to upgrade to the latest version. This is Rack middleware that simply
 adds a `Client-Version` header to every response with the value of the
 `CLIENT_VERSION` environment variable. Your clients can use it to determine
