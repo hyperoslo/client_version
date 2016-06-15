@@ -1,6 +1,6 @@
 # Client Version
 [![Gem Version](https://img.shields.io/gem/v/client-version.svg?style=flat)](https://rubygems.org/gems/client-version)
-[![Build Status](https://img.shields.io/travis/hyperoslo/client-version?style=flat)](https://travis-ci.org/hyperoslo/client-version)
+[![Build Status](https://img.shields.io/travis/hyperoslo/client-version.svg?style=flat)](https://travis-ci.org/hyperoslo/client-version)
 [![Code Climate](https://img.shields.io/codeclimate/github/hyperoslo/client-version.svg?style=flat)](https://codeclimate.com/github/hyperoslo/client-version)
 [![Coverage Status](https://img.shields.io/coveralls/hyperoslo/client-version.svg?style=flat)](https://coveralls.io/r/hyperoslo/client-version)
 [![Join the chat at https://gitter.im/hyperoslo/client-version](https://badges.gitter.im/hyperoslo/client-version.svg)](https://gitter.im/hyperoslo/client-version?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
