@@ -1,4 +1,9 @@
 # Client Version
+[![Gem Version](https://img.shields.io/gem/v/client_version.svg?style=flat)](https://rubygems.org/gems/client_version)
+[![Build Status](https://img.shields.io/travis/hyperoslo/client_version?style=flat)](https://travis-ci.org/hyperoslo/client_version)
+[![Code Climate](https://img.shields.io/codeclimate/github/hyperoslo/client_version.svg?style=flat)](https://codeclimate.com/github/hyperoslo/client_version)
+[![Coverage Status](https://img.shields.io/coveralls/hyperoslo/client_version.svg?style=flat)](https://coveralls.io/r/hyperoslo/client_version)
+[![Join the chat at https://gitter.im/hyperoslo/client_version](https://badges.gitter.im/hyperoslo/client_version.svg)](https://gitter.im/hyperoslo/client_version?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 If you're building an API, it can be really helpful to be able to force your
 clients to upgrade to the latest version. This is Rack middleware that simply
