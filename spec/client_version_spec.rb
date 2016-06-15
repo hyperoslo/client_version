@@ -5,7 +5,11 @@ describe ClientVersion do
   include Rack::Test::Methods
 
   def app
-    ClientVersion
+    Rack::Builder.new do |app|
+      app.use Rack::Lint
+      app.use ClientVersion
+      run proc { [200, {}, []] }
+    end
   end
 
   describe 'requests' do
