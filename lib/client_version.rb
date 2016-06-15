@@ -11,7 +11,7 @@ class ClientVersion
 
   def call(env)
     @app.call(env).tap do |_, headers, _|
-      headers['Client-Version'] = @client_version if @client_version
+      headers['Client-Version'.freeze] = @client_version if @client_version
     end
   end
 end
