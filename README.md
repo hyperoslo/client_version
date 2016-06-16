@@ -36,7 +36,7 @@ for you. Otherwise just add `ClientVersion` to your middleware stack.
 
 [Hyper] made this. We're a bunch of folks who love building things. You should
 [tweet us] if you can't get it to work. In fact, you should tweet us anyway.
-If you're using Facebook Messenger, we probably want to [hire you].
+If you're using Client Version, we probably want to [hire you].
 
 [Hyper]: https://github.com/hyperoslo
 [tweet us]: http://twitter.com/hyperoslo
